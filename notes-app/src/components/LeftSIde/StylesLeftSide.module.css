@@ -1,0 +1,24 @@
+.leftside {
+    background: #fff;
+    width: 23vw;
+    height: 98.3vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.imageplus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imageplus > img {
+    min-width: 21px;
+}
+
+.createNoteGroup{
+
+}
